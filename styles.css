@@ -1,0 +1,33 @@
+* {
+    color: antiquewhite;
+}
+
+
+/* body {
+    position: relative;
+} */
+
+.main {
+    background-image: url("/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 95vh;
+}
+
+.main2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 80vh;
+}
+
+button {
+    color: green;
+    background-color: rgb(255, 166, 0);
+    padding: 1% 15%;
+    border-radius: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 20%;
+}
